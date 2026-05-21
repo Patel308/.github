@@ -165,13 +165,17 @@ Full production infrastructure under a single domain — Chatwoot, Mautic, n8n, 
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Patel308&show_icons=true&bg_color=0f172a&border_color=1d4ed8&icon_color=3b82f6&title_color=93c5fd&text_color=cbd5e1&hide_border=false&count_private=true&rank_icon=github" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patel308&layout=compact&bg_color=0f172a&border_color=1d4ed8&title_color=93c5fd&text_color=cbd5e1&hide_border=false&langs_count=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=Patel308&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Patel308&theme=transparent&background=0f172a&border=1d4ed8&ring=3b82f6&fire=f97316&currStreakLabel=93c5fd&sideLabels=93c5fd&dates=64748b&stroke=1d4ed8" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Patel308&bg_color=0f172a&color=93c5fd&line=1d4ed8&point=3b82f6&area=true&area_color=1d4ed8&hide_border=false&border_color=1d4ed8&radius=6" />
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Patel308&color=1d4ed8&style=for-the-badge&label=PROFILE+VIEWS)
+&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/Patel308?style=for-the-badge&color=1d4ed8&labelColor=0f172a&label=FOLLOWERS)
 
 </div>
 
