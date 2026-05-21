@@ -165,13 +165,13 @@ Full production infrastructure under a single domain — Chatwoot, Mautic, n8n, 
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Patel308&show_icons=true&theme=github_dark&bg_color=0f172a&border_color=1d4ed8&icon_color=3b82f6&title_color=93c5fd&text_color=cbd5e1&hide_border=false&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Patel308&show_icons=true&bg_color=0f172a&border_color=1d4ed8&icon_color=3b82f6&title_color=93c5fd&text_color=cbd5e1&hide_border=false&count_private=true&rank_icon=github" />
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patel308&layout=compact&theme=github_dark&bg_color=0f172a&border_color=1d4ed8&title_color=93c5fd&text_color=cbd5e1&hide_border=false&langs_count=8" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patel308&layout=compact&bg_color=0f172a&border_color=1d4ed8&title_color=93c5fd&text_color=cbd5e1&hide_border=false&langs_count=8" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Patel308&theme=github-dark-blue&background=0f172a&border=1d4ed8&ring=3b82f6&fire=f97316&currStreakLabel=93c5fd&sideLabels=93c5fd&dates=64748b" />
+<img src="https://streak-stats.demolab.com?user=Patel308&theme=transparent&background=0f172a&border=1d4ed8&ring=3b82f6&fire=f97316&currStreakLabel=93c5fd&sideLabels=93c5fd&dates=64748b&stroke=1d4ed8" />
 
 </div>
 
