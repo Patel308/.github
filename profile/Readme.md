@@ -1,30 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1d4ed8&height=200&section=header&text=Deepesh%20Patel&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20Cloud%20Infrastructure%20%E2%80%A2%20Analytics%20%E2%80%A2%20AI%20Pipelines&descAlignY=58&descSize=16&descColor=93c5fd" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1d4ed8&height=200&section=header&text=Deepesh%20Patel&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Cloud%20%E2%80%A2%20MLOps%20%E2%80%A2%20Analytics&descAlignY=58&descSize=16&descColor=93c5fd" />
 
 <br/>
 
-**Data & AI Engineer with 1+ years of hands-on experience building production-grade data pipelines, cloud infrastructure, analytics platforms, and intelligent automation systems.**
+**Data & AI Engineer with 1+ years of experience building production-grade data pipelines, ML systems, cloud infrastructure, and analytics platforms across GCP, AWS, and DigitalOcean.**
 
 <br/>
 
 [![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3b82f6)](https://python.org)
 [![SQL](https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=3b82f6)](https://postgresql.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3b82f6)](https://typescriptlang.org)
+[![R](https://img.shields.io/badge/R-0f172a?style=for-the-badge&logo=r&logoColor=276DC3)](https://r-project.org)
 [![Go](https://img.shields.io/badge/Go-0f172a?style=for-the-badge&logo=go&logoColor=00ADD8)](https://go.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3b82f6)](https://typescriptlang.org)
 [![C++](https://img.shields.io/badge/C++-0f172a?style=for-the-badge&logo=cplusplus&logoColor=3b82f6)](https://isocpp.org)
 
 [![GCP](https://img.shields.io/badge/GCP-0f172a?style=for-the-badge&logo=googlecloud&logoColor=3b82f6)](https://cloud.google.com)
 [![AWS](https://img.shields.io/badge/AWS-0f172a?style=for-the-badge&logo=amazonaws&logoColor=f97316)](https://aws.amazon.com)
+[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0f172a?style=for-the-badge&logo=digitalocean&logoColor=0080FF)](https://digitalocean.com)
 [![Docker](https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=3b82f6)](https://docker.com)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0f172a?style=for-the-badge&logo=githubactions&logoColor=3b82f6)](https://github.com/features/actions)
+
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=60a5fa)](https://postgresql.org)
 [![dbt](https://img.shields.io/badge/dbt-0f172a?style=for-the-badge&logo=dbt&logoColor=f97316)](https://getdbt.com)
-
 [![Apache Kafka](https://img.shields.io/badge/Kafka-0f172a?style=for-the-badge&logo=apachekafka&logoColor=ffffff)](https://kafka.apache.org)
 [![PySpark](https://img.shields.io/badge/PySpark-0f172a?style=for-the-badge&logo=apachespark&logoColor=f97316)](https://spark.apache.org)
-[![Airflow](https://img.shields.io/badge/Airflow-0f172a?style=for-the-badge&logo=apacheairflow&logoColor=017CEE)](https://airflow.apache.org)
+[![MLflow](https://img.shields.io/badge/MLflow-0f172a?style=for-the-badge&logo=mlflow&logoColor=0194E2)](https://mlflow.org)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-0f172a?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)](https://tensorflow.org)
+[![scikit-learn](https://img.shields.io/badge/Scikit--learn-0f172a?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)](https://scikit-learn.org)
 [![Metabase](https://img.shields.io/badge/Metabase-0f172a?style=for-the-badge&logo=metabase&logoColor=509EE3)](https://metabase.com)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0f172a?style=for-the-badge&logo=githubactions&logoColor=3b82f6)](https://github.com/features/actions)
 
 </div>
 
@@ -32,30 +36,39 @@
 
 ## About Me
 
-I'm a **Data & AI Engineer** with 1+ years of professional experience designing and shipping production data systems. I specialize in building the full data stack — from raw ingestion and distributed pipelines to transformation layers, analytics dashboards, and cloud-native deployments.
+I'm a **Data & AI Engineer** with 1+ years of professional experience spanning data engineering, machine learning, MLOps, cloud infrastructure, and business intelligence. I've worked across the full data lifecycle — from raw ingestion and distributed streaming pipelines to ML model deployment and production analytics dashboards.
 
-My work spans data engineering, cloud infrastructure, business intelligence, and AI-powered automation, with a strong focus on **self-hosted, cost-efficient, production-grade systems** on GCP and AWS.
+I build systems that run in production — not just notebooks. My focus is on **cost-efficient, self-hosted, scalable stacks** across GCP, AWS, and DigitalOcean.
 
-- 🔧 Built and maintained **end-to-end ETL pipelines** with PostgreSQL, dbt, and n8n serving live clients
-- ☁️ Deployed and managed **multi-service GCP infrastructure** with Docker, Nginx, and Compose stacks
+- 🔧 Built **end-to-end ETL and ML pipelines** with PySpark, Kafka, PostgreSQL, and dbt serving live clients
+- 🤖 Deployed **ML models to production** using FastAPI, Docker, MLflow, and CI/CD on AWS EC2
+- ☁️ Managed **multi-service cloud infrastructure** on GCP and DigitalOcean with Docker Compose and Nginx
 - 📊 Designed **vertical BI platforms** with Metabase for SMB clients across multiple industries
-- 🤖 Engineered **AI-powered automation workflows** combining LLMs with real business data flows
-- 🕷️ Developed **large-scale web scraping infrastructure** generating 10,000+ structured business leads
+- 🕷️ Built **large-scale distributed scraping systems** generating 10,000+ structured business leads
 
 ---
 
 ## Experience
 
-**Data & AI Engineer — Scallar IT Solutions** *(2024 – Present)*
+### Data & AI Engineer · MLOps | Automation | Analytics
+**Scallar IT Solutions** — Noida, Uttar Pradesh · Hybrid · Full-time
+`Jul 2025 – Present · 11 mos`
 
-> AI automation and data engineering agency · Noida, Delhi NCR · Remote-first
-
-- Architected and maintained a multi-client analytics platform: `n8n → PostgreSQL → dbt → Metabase` serving showroom, billboard, and retail clients with custom data models and dashboards
-- Built full WhatsApp automation stack (WAHA + Chatwoot + n8n + CRM) with bidirectional routing, contact resolution, and cold outreach sequences
-- Designed distributed web scraping infrastructure across two GCP projects: Scrapy-Redis targeting USA leads (2,300+ across 20 niches × 30 cities) and Camoufox-based Google Maps scraper generating 10,000+ Indian business leads
-- Deployed and managed self-hosted production stack — Mautic, n8n, Metabase, Chatwoot, Flowise — on GCP with Nginx reverse proxies, Docker Compose, and full SSL/domain routing
-- Configured email deliverability infrastructure with AWS SES + Brevo, Doctrine async queues, and DKIM/SPF/DMARC hardening
+- Architected multi-client analytics platform: `n8n → PostgreSQL → dbt → Metabase` serving showroom, billboard, and retail clients with custom data models and role-specific dashboards
+- Deployed and managed self-hosted production stack — Mautic, n8n, Metabase, Chatwoot, Flowise — on GCP and DigitalOcean with Nginx reverse proxies, Docker Compose, SSL termination, and subdomain routing
+- Built distributed web scraping infrastructure across two GCP projects: Scrapy-Redis (USA, 2,300+ leads across 20 niches × 30 cities) and Camoufox anti-detect scraper (India, 10,000+ Google Maps leads)
+- Engineered WhatsApp automation stack (WAHA + Chatwoot + n8n + CRM) with bidirectional routing, cold outreach sequences, and Baileys-based dispatcher with number rotation
+- Configured email deliverability infrastructure with AWS SES + Brevo, async queue architecture, and full DKIM/SPF/DMARC hardening via Cloudflare
 - Built Next.js programmatic SEO platform with 800+ statically generated pages across 720 service × city combinations
+
+### Data Science Intern
+**Scallar IT Solutions** — Noida, Uttar Pradesh · Hybrid · Internship
+`Jan 2025 – Jun 2025 · 6 mos`
+
+- Built ML data processing pipelines using PySpark and Apache Kafka for multi-platform user data collection, enabling targeted lead generation for digital marketing services
+- Designed and deployed ML models with Scikit-learn — KNN and K-Means clustering — to predict customer behavior and improve segmentation accuracy by 25%
+- Automated model deployment using Docker and GitHub Actions CI/CD on AWS EC2, streamlining production MLOps workflows
+- Integrated ML predictions into marketing strategies via A/B testing, contributing to 15% revenue growth through optimized lead targeting
 
 ---
 
@@ -63,14 +76,16 @@ My work spans data engineering, cloud infrastructure, business intelligence, and
 
 | Domain | Stack |
 |--------|-------|
-| **Data Engineering** | PostgreSQL · dbt · Apache Kafka · PySpark · Scrapy-Redis · n8n · BigQuery · ETL design |
-| **Cloud & DevOps** | GCP · AWS · Docker · Docker Compose · Nginx · GitHub Actions · Linux · Cloudflare |
-| **Analytics & BI** | Metabase · Apache Superset · dbt models · Dashboard design · Multi-client BI |
-| **AI / LLM Integration** | n8n AI agents · Flowise · Ollama · LLM pipeline design · Prompt engineering |
-| **Backend & APIs** | FastAPI · Python · Node.js · REST APIs · Webhook architecture |
-| **Scraping & Automation** | Scrapy · Camoufox · Playwright · Google Maps automation · Anti-detect tooling |
-| **Data Warehousing** | PostgreSQL · BigQuery · Star schema design · dbt transformations |
-| **Streaming** | Apache Kafka · Event-driven pipeline design · Redis queues |
+| **Data Engineering** | PostgreSQL · dbt · Apache Kafka · PySpark · Scrapy-Redis · n8n · BigQuery · Delta Lake |
+| **Machine Learning** | Scikit-learn · TensorFlow · PyTorch · XGBoost · K-Means · KNN · Regression · Time Series |
+| **MLOps** | MLflow · FastAPI · Docker · GitHub Actions · AWS EC2/ECR · CI/CD · Model Monitoring |
+| **Cloud & DevOps** | GCP · AWS · DigitalOcean · Docker Compose · Nginx · Linux · Cloudflare · Azure |
+| **Analytics & BI** | Metabase · Apache Superset · dbt models · Multi-client dashboard design |
+| **Data Science** | Pandas · NumPy · Feature Engineering · EDA · Statistical Analysis · A/B Testing |
+| **Databases** | PostgreSQL · MySQL · MongoDB · NoSQL · Data Warehousing · Star Schema |
+| **Streaming** | Apache Kafka · PySpark Streaming · Redis queues · Event-driven pipeline design |
+| **AI / Automation** | n8n AI agents · Flowise · Ollama · LLM pipeline design · Prompt engineering |
+| **Scraping** | Scrapy · Camoufox · Playwright · Google Maps automation · Anti-detect tooling |
 
 ---
 
@@ -80,52 +95,52 @@ My work spans data engineering, cloud infrastructure, business intelligence, and
 <tr>
 <td width="50%">
 
-### 🏭 Multi-Client Analytics Platform
-Vertical BI system serving live SMB clients — showroom performance, billboard analytics, retail metrics.
+### 🤖 End-to-End ML Pipeline (MLCIETLDeploy)
+Production ML pipeline from ingestion to real-time model serving.
 
-**Stack:** `n8n` → `PostgreSQL` → `dbt` → `Metabase`
+**Stack:** `Scikit-learn` · `FastAPI` · `Docker` · `AWS EC2/ECR` · `MLflow` · `GitHub Actions`
 
-- Per-client dedicated data models and dbt transformations
-- Automated ingestion from multiple source APIs
-- Real-time dashboards with custom KPIs per vertical
+- Full CI/CD automation for model training and deployment
+- MLflow experiment tracking with A/B testing framework
+- Real-time inference via FastAPI with comprehensive model versioning
 
 </td>
 <td width="50%">
 
-### 🕷️ Distributed Lead Generation Infrastructure
-Two independent GCP scraping systems for USA and India markets.
+### 📡 Real-Time Gym IoT Streaming Pipeline
+Cloud-native streaming pipeline for real-time fitness equipment analytics.
 
-**Stack:** `Scrapy-Redis` · `Camoufox` · `PostgreSQL` · `GCP`
+**Stack:** `PySpark` · `Apache Kafka` · `Databricks` · `Delta Lake`
 
-- USA: YellowPages scraper — 2,300+ leads, 20 niches × 30 cities
-- India: Google Maps Camoufox pipeline — 10,000+ structured leads
-- Designed for horizontal scale toward 1M+ leads/day (Go migration in progress)
+- Medallion architecture (Bronze → Silver → Gold) for IoT data
+- Real-time anomaly detection and time series analysis
+- Statistical hypothesis testing on live sensor streams
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### ☁️ Self-Hosted GCP Production Stack
-Full production environment across 6+ services under a single domain.
+### 🏭 Multi-Client Analytics Platform
+Vertical BI system serving live SMB clients across multiple industries.
 
-**Stack:** `Docker Compose` · `Nginx` · `GCP` · `Cloudflare`
+**Stack:** `n8n` → `PostgreSQL` → `dbt` → `Metabase`
 
-- Per-service subdomain isolation with SSL termination
-- Services: Chatwoot, Mautic, n8n, Metabase, Flowise, Twenty CRM
-- Zero-downtime deployments with health checks and restart policies
+- Per-client dedicated data models and dbt transformation layers
+- Automated ingestion from Excel, APIs, and ERP systems
+- Real-time dashboards with custom KPIs per vertical (showroom, billboard, retail)
 
 </td>
 <td width="50%">
 
-### 📧 Email Automation Infrastructure
-Scalable transactional and marketing email platform with full deliverability hardening.
+### 🕷️ Distributed Lead Generation Infrastructure
+Two independent GCP scraping pipelines for USA and India markets.
 
-**Stack:** `Mautic` · `AWS SES` · `Brevo` · `Docker`
+**Stack:** `Scrapy-Redis` · `Camoufox` · `PostgreSQL` · `GCP` · `DigitalOcean`
 
-- Dual-provider setup (SES + Brevo) with fallback routing
-- Doctrine-backed async queue architecture replacing sync send
-- SPF, DKIM, DMARC configured via Cloudflare for high inbox rates
+- USA: YellowPages — 2,300+ leads, 20 niches × 30 cities
+- India: Google Maps anti-detect pipeline — 10,000+ structured leads
+- Architected for horizontal scale toward 1M+ leads/day via Go migration
 
 </td>
 </tr>
@@ -133,15 +148,22 @@ Scalable transactional and marketing email platform with full deliverability har
 
 ---
 
+## Certifications
+
+- 🎓 **MLOps Bootcamp** — Krish Naik · 10+ full-stack ML projects covering statistical modeling, predictive analytics, hypothesis testing, and production deployment
+- 🎓 **TensorFlow for Deep Learning Bootcamp** — Andrei Neagoie · Neural networks, CV, NLP, and advanced deep learning for production
+
+---
+
 ## Currently Learning & Building
 
 ```
-▸ Advanced dbt patterns — incremental models, snapshots, testing, packages
-▸ Apache Airflow — DAG design, scheduling, operator patterns for production pipelines
+▸ Advanced dbt — incremental models, snapshots, testing, packages
+▸ Apache Airflow — DAG design, scheduling, production-grade orchestration
 ▸ BigQuery at scale — partitioning, clustering, cost optimization
-▸ Go-based scraping infrastructure targeting 1M+ leads/day
-▸ MLOps foundations — model serving, versioning, drift monitoring
-▸ Kafka streaming pipelines for real-time data ingestion
+▸ Go-based distributed scrapers targeting 1M+ leads/day
+▸ LLM fine-tuning and RAG pipeline design for domain-specific use cases
+▸ Kafka Streams + Flink for complex event processing
 ```
 
 ---
@@ -170,17 +192,18 @@ Scalable transactional and marketing email platform with full deliverability har
 
 <div align="center">
 
-I'm actively looking for opportunities in **Data Engineering**, **Cloud Data**, **Analytics Engineering**, and **AI/ML Infrastructure** roles.
+Actively seeking roles in **Data Engineering**, **Data Science**, **Analytics Engineering**, **MLOps**, and **Cloud Data** across full-time and contract engagements.
 
-I bring production experience with the full modern data stack — pipelines, warehousing, transformation, orchestration, and cloud deployment — and a strong preference for building things that work reliably at scale.
+I bring production experience across the full modern data stack — ML pipelines, streaming, warehousing, transformation, orchestration, and cloud deployment.
 
 **Available for:** Full-time · Contract · Remote / Hybrid (Delhi NCR preferred)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=3b82f6)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=3b82f6)](https://www.linkedin.com/in/deepesh-patel-999070205/)
 [![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Patel308)
 [![Email](https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=f97316)](mailto:techiedeepeshpatel@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0f172a?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com)
 
 </div>
 
